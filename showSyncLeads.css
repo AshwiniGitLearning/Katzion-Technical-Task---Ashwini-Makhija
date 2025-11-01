@@ -1,0 +1,12 @@
+.noLeadFound{
+    font-size : 20px;
+    color : red;
+}
+
+.filterheader{
+    font-weight : bold;
+}
+
+.leadsTable{
+    max-height : 500px;
+}
